@@ -1,0 +1,2 @@
+# EOAdmin
+WPF admin app
